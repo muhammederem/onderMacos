@@ -1,0 +1,29 @@
+{
+   "Organisation": [
+      {
+         "id": "1",
+         "name": "Genel Merkez",
+         "gsm": "Alkan",
+         "adress": "+905547740000",
+         "email": "burakdalgic@gmail.com",
+	      "website": "burakdalgic@gmail.com"
+	 
+      },
+      {
+         "id": "2",
+         "name": "Fatih",
+         "gsm": "Alsskan",
+         "adress": "+905ss547740000",
+         "email": "burakdassslgic@gmail.com",
+	      "website": "burakdalgic@gmail.com"
+      },
+      {
+         "id": "3",
+         "name": "Faqqtih",
+         "gsm": "Alkqqan",
+         "adress": "+905547740000",
+         "email": "burakdqqalgic@gmail.com",
+	      "website": "burakdqqalgic@gmail.com"
+      }
+   ]
+}
